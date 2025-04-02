@@ -1,7 +1,0 @@
-This will be presented here
-
- 9th week : GIS 공간분석의 개요, 버퍼분석, 중첩분석
-11th week : 근접분석, 네트워크 분석 (경로탐색)
-12th week : 네트워크 분석 (자원의 배분과 공간적 상호작용 모델)
-13th week : 네트워크 분석 (입지-배분 모델)
-14th week : 공간상관성분석
